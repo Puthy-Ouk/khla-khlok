@@ -1,0 +1,24 @@
+*{
+    font-family: cursive;
+}
+.container{
+    width: 600px;
+    margin: 0 auto;
+}
+button{
+    background: orange;
+    border: none;
+    width: 15%;
+    padding: 10px;
+    border-radius: 10px;
+    outline: none;
+    cursor: pointer;
+    color: white;
+}
+#resultId{
+    text-align: center;
+    margin-top: 45px;
+}
+
+
+
